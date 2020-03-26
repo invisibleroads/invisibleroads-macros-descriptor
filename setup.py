@@ -21,7 +21,7 @@ DESCRIPTION = '\n\n'.join(open(join(FOLDER, x)).read().strip() for x in [
 
 setup(
     name='invisibleroads-macros-descriptor',
-    version='1.0.0',
+    version='1.0.1',
     description='Shortcut functions for descriptor operations',
     long_description=DESCRIPTION,
     long_description_content_type='text/markdown',
